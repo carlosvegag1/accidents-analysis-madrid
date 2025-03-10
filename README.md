@@ -39,7 +39,7 @@ Se han utilizado escalas de colores inspiradas en semáforos para facilitar la i
   <img src="https://i.imgur.com/HXsDjZq.png" width="70%">
 </p>
 
-### 📈 Evolución de Accidentes durante 6 Años
+### 📈 La joya de la corona: Evolución de Accidentes durante 6 Años
 <p align="center">
   <img src="https://i.imgur.com/RAi5o75.png" width="70%">
 </p>
@@ -50,7 +50,7 @@ Se han utilizado escalas de colores inspiradas en semáforos para facilitar la i
 
 ### 1️⃣ Clonar el Repositorio
 ```bash
-git clone https://github.com/TU-USUARIO/Accidents-Analysis-Madrid.git
+git clone https://github.com/carlosvegag1/Accidents-Analysis-Madrid.git
 cd Accidents-Analysis-Madrid
 ```
 ### 2️⃣ Crear un Entorno Virtual e Instalar Dependencias
