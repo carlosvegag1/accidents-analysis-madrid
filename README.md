@@ -41,7 +41,7 @@ Se han utilizado escalas de colores inspiradas en semáforos para facilitar la i
 
 ### 📈 Evolución de Accidentes durante 6 Años
 <p align="center">
-  <img src="https://i.imgur.com/ysE53MR.png" width="70%">
+  <img src="https://i.imgur.com/RAi5o75.png" width="70%">
 </p>
 
 ---
