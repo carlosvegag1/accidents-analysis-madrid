@@ -36,7 +36,7 @@ Se han utilizado escalas de colores inspiradas en semáforos para facilitar la i
 
 ### 📅 Accidentes por Hora del Día y Día de la Semana
 <p align="center">
-  <img src="https://i.imgur.com/HXsDjZq.png" width="70%">
+  <img src="https://i.imgur.com/IMJSgZI.png" width="70%">
 </p>
 
 ### 📈 La joya de la corona: Evolución de Accidentes durante 6 Años
