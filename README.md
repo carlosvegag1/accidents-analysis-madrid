@@ -64,6 +64,14 @@ pip install -r requirements.txt
 Abre Jupyter Notebook y ejecuta Accidents_Analysis.ipynb
 jupyter notebook
 ```
+---
+
+## 🔎 Otras formas de visualizar el análisis  
+
+Si prefieres explorar el análisis sin necesidad de ejecutar código, puedes acceder a la versión en HTML aquí:  
+
+📄 **Versión en HTML (visualización directa en GitHub)**  
+🔗 **[Accidents-Analysis-Madrid.html](docs/Accidents-Analysis-Madrid.html)**  
 
 ---
 ### 💡 Contribución y Feedback
