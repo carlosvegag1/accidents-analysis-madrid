@@ -1,9 +1,0 @@
-# Librerías esenciales
-pandas
-numpy
-matplotlib
-seaborn
-plotly
-
-# Librerías específicas para visualización avanzada
-calplot

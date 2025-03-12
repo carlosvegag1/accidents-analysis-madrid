@@ -1,14 +1,52 @@
-# Archivos de sistema
+# Archivos de Python compilados
 __pycache__/
-.DS_Store
+*.py[cod]
+*$py.class
 
-# Entorno virtual
-env/
+# Archivos de entorno virtual
 venv/
+env/
+*.egg-info/
+pip-log.txt
+pip-delete-this-directory.txt
 
-# Archivos de Jupyter Notebook
+# Archivos de configuración de Jupyter Notebook
 .ipynb_checkpoints/
 
-# Datos procesados o temporales
-*.csv
-*.xlsx
+# Datos de salida, cachés y logs
+*.log
+*.csv~
+*.db
+*.sqlite
+*.pkl
+*.h5
+
+# Archivos de configuración del sistema
+.DS_Store
+Thumbs.db
+
+# Configuración de entornos virtuales en VS Code o Jupyter
+.vscode/
+*.ipynb_checkpoints/
+.env
+.venv
+
+# Archivos generados de gráficos y visualizaciones
+images/
+plots/
+figures/
+
+# Carpetas de datasets sin procesar (si no quieres subir los datos originales)
+data/raw/
+
+# Si usas Jupyter Notebook y no quieres subir archivos temporales
+*.sav
+*.dill
+*.joblib
+
+# Archivos de dependencias creados con pip freeze
+requirements.txt~
+
+# Archivos de exportación de Jupyter
+*.html
+*.md
