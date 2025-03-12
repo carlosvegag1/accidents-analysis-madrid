@@ -1,0 +1,14 @@
+# Archivos de sistema
+__pycache__/
+.DS_Store
+
+# Entorno virtual
+env/
+venv/
+
+# Archivos de Jupyter Notebook
+.ipynb_checkpoints/
+
+# Datos procesados o temporales
+*.csv
+*.xlsx
