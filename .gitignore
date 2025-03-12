@@ -46,6 +46,3 @@ data/raw/
 
 # Archivos de dependencias creados con pip freeze
 requirements.txt~
-
-# Archivos de exportación de Jupyter
-*.md
