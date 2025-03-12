@@ -70,8 +70,9 @@ jupyter notebook
 
 Si prefieres explorar el análisis sin necesidad de ejecutar código, puedes acceder a la versión en HTML aquí:  
 
-📄 **Versión en HTML (visualización directa en GitHub)**  
-🔗 **[Accidents-Analysis-Madrid.html]([docs/Accidents-Analysis-Madrid.html](https://carlosvegag1.github.io/Accidents-Analysis-Madrid/Accidents-Analysis-Madrid.html))**  
+📄 **Versión en HTML (visualización directa en GitHub Pages)**  
+🔗 **[Accidents-Analysis-Madrid.html](https://carlosvegag1.github.io/Accidents-Analysis-Madrid/Accidents-Analysis-Madrid.html)**
+
 
 ---
 ### 💡 Contribución y Feedback
