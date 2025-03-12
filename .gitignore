@@ -48,5 +48,4 @@ data/raw/
 requirements.txt~
 
 # Archivos de exportación de Jupyter
-*.html
 *.md
