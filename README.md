@@ -75,7 +75,7 @@ Si prefieres explorar el análisis sin necesidad de ejecutar código, puedes acc
 
 2️⃣
 📄 **Versión en PDF**  
-🔗 **[Accidents-Analysis-Madrid.pdf](https://github.com/carlosvegag1/accidents-analysis-madrid/blob/main/outputs/accidents_analysis.pdf)**
+🔗 **[Accidents-Analysis-Madrid.pdf](https://github.com/carlosvegag1/accidents-analysis-madrid/blob/main/docs/accidents_analysis.pdf)**
 
 ---
 
