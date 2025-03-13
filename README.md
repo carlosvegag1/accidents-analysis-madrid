@@ -64,7 +64,6 @@ pip install -r requirements.txt
 Abre Jupyter Notebook y ejecuta Accidents_Analysis.ipynb
 jupyter notebook
 ```
----
 
 ## 🔎 Otras formas de visualizar el análisis  
 
@@ -73,7 +72,7 @@ Si prefieres explorar el análisis sin necesidad de ejecutar código, puedes acc
 📄 **Versión en HTML (visualización directa en GitHub Pages)**  
 🔗 **[Accidents-Analysis-Madrid.html](https://carlosvegag1.github.io/accidents-analysis-madrid/accidents_analysis.html)**
 
-
+---
 
 ## 📥 Origen de los Datos
 Los datos analizados en este proyecto provienen del Portal de Datos Abiertos del Ayuntamiento de Madrid. Este portal proporciona acceso a conjuntos de datos públicos con el objetivo de promover la transparencia y facilitar la reutilización de la información. En particular, se ha utilizado el conjunto de datos titulado "Accidentes de tráfico de la ciudad de Madrid", disponible en el siguiente enlace:
