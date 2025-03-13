@@ -74,9 +74,8 @@ Si prefieres explorar el análisis sin necesidad de ejecutar código, puedes acc
 🔗 **[Accidents-Analysis-Madrid.html](https://carlosvegag1.github.io/Accidents-Analysis-Madrid/Accidents-Analysis-Madrid.html)**
 
 
----
-### 💡 Contribución y Feedback
-Este proyecto es un análisis personal sobre los accidentes en Madrid, desarrollado como parte de mi formación en ciencia de datos. Si tienes sugerencias o quieres contribuir, ¡serás bienvenido!
+### 🤝 Compalte
+Este proyecto es un análisis sobre los accidentes en Madrid que he desarrollado como parte de mi formación en ciencia de datos. Si tienes sugerencias o quieres contribuir, ¡serás bienvenido!
 
 **⭐ Si te resulta útil, no olvides darle una estrella al repositorio. 🚀**
 
