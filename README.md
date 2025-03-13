@@ -81,7 +81,7 @@ Los datos analizados en este proyecto provienen del Portal de Datos Abiertos del
 🔗 **[Accidentes de tráfico de la ciudad de Madrid](https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=7c2843010d9c3610VgnVCM2000001f4a900aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default)**
 
 Este conjunto de datos incluye registros detallados de los accidentes de tráfico en Madrid, recopilados por la Policía Municipal. 
-Para más información sobre el portal y otros conjuntos de datos disponibles, visitar el **[enlace](https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=7c2843010d9c3610VgnVCM2000001f4a900aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default)**
+Para más información sobre el portal y otros conjuntos de datos disponibles, visitar el **[Portal de datos abiertos del Ayuntamiento de Madrid](https://datos.madrid.es/portal/site/egob)**
 
 ---
 
