@@ -74,12 +74,22 @@ Si prefieres explorar el análisis sin necesidad de ejecutar código, puedes acc
 🔗 **[Accidents-Analysis-Madrid.html](https://carlosvegag1.github.io/Accidents-Analysis-Madrid/Accidents_Analysis.html)**
 
 
+
+## 📥 Origen de los Datos
+Los datos analizados en este proyecto provienen del Portal de Datos Abiertos del Ayuntamiento de Madrid. Este portal proporciona acceso a conjuntos de datos públicos con el objetivo de promover la transparencia y facilitar la reutilización de la información. En particular, se ha utilizado el conjunto de datos titulado "Accidentes de tráfico de la ciudad de Madrid", disponible en el siguiente enlace:
+
+🔗 **[Accidentes de tráfico de la ciudad de Madrid](https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=7c2843010d9c3610VgnVCM2000001f4a900aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default)**
+
+Este conjunto de datos incluye registros detallados de los accidentes de tráfico en Madrid, recopilados por la Policía Municipal. 
+Para más información sobre el portal y otros conjuntos de datos disponibles, visitar el **[enlace](https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=7c2843010d9c3610VgnVCM2000001f4a900aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default)**
+
+---
+
 ### 🤝 Compalte
 Este proyecto es un análisis sobre los accidentes en Madrid que he desarrollado como parte de mi formación en ciencia de datos. Si tienes sugerencias o quieres contribuir, ¡serás bienvenido!
 
 **⭐ Si te resulta útil, no olvides darle una estrella al repositorio. 🚀**
 
----
 
 ### 📬 Contacto
 📌 **LinkedIn:** [Carlos Vega González](https://www.linkedin.com/in/carlos-vega-gonzalez/)  
