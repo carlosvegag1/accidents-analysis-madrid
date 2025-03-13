@@ -67,7 +67,7 @@ jupyter notebook
 
 ## 🔎 Otras formas de visualizar el análisis  
 
-Si prefieres explorar el análisis sin necesidad de ejecutar código, puedes acceder a la versión en HTML aquí:  
+Si prefieres explorar el análisis sin necesidad de ejecutar código, puedes acceder aquí:  
 
 1️⃣
 📄 **Versión en HTML**  
