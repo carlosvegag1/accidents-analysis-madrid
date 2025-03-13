@@ -50,8 +50,8 @@ Se han utilizado escalas de colores inspiradas en semáforos para facilitar la i
 
 ### 1️⃣ Clonar el Repositorio
 ```bash
-git clone https://github.com/carlosvegag1/Accidents-Analysis-Madrid.git
-cd Accidents-Analysis-Madrid
+git clone https://github.com/carlosvegag1/accidents-analysis-madrid.git
+cd accidents-analysis-madrid
 ```
 ### 2️⃣ Crear un Entorno Virtual e Instalar Dependencias
 ```bash
@@ -61,7 +61,7 @@ pip install -r requirements.txt
 ```
 ### 3️⃣ Ejecutar el Notebook
 ```bash
-Abre Jupyter Notebook y ejecuta Accidents_Analysis.ipynb
+Abre Jupyter Notebook y ejecuta accidents_analysis.ipynb
 jupyter notebook
 ```
 
