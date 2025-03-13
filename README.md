@@ -79,6 +79,8 @@ Este proyecto es un análisis sobre los accidentes en Madrid que he desarrollado
 
 **⭐ Si te resulta útil, no olvides darle una estrella al repositorio. 🚀**
 
+---
+
 ### 📬 Contacto
 📌 **LinkedIn:** [Carlos Vega González](https://www.linkedin.com/in/carlos-vega-gonzalez/)  
 📧 **Email:** carlosvegagonzalez1@gmail.com  
