@@ -1,4 +1,4 @@
-# Análisis de Accidentes en Madrid
+# 🚦 Análisis de Accidentes en Madrid
 
 <p align="center">
 <a href="https://github.com/carlosvegag1/Accidents-Analysis-Madrid"><img src="https://i.imgur.com/FJH0b4k.png" width="80%"></a>
@@ -22,9 +22,9 @@ Se han utilizado escalas de colores inspiradas en semáforos para facilitar la i
 
 ---
 
-## 📊 Visualizaciones Destacadas
+##  Visualizaciones Destacadas
 
-### 🚦 Accidentes por Tipo de Vehículo y Estado Meteorológico
+### 📊 Accidentes por Tipo de Vehículo y Estado Meteorológico
 <p align="center">
   <img src="https://i.imgur.com/MCiYqQt.png" width="70%">
 </p>
@@ -48,18 +48,18 @@ Se han utilizado escalas de colores inspiradas en semáforos para facilitar la i
 
 ## 🔧 Instalación y Uso
 
-### 1️⃣ Clonar el Repositorio
+### 1️ Clonar el Repositorio
 ```bash
 git clone https://github.com/carlosvegag1/accidents-analysis-madrid.git
 cd accidents-analysis-madrid
 ```
-### 2️⃣ Crear un Entorno Virtual e Instalar Dependencias
+### 2️ Crear un Entorno Virtual e Instalar Dependencias
 ```bash
 python -m venv env
 source env/bin/activate  # (Windows: env\Scripts\activate)
 pip install -r requirements.txt
 ```
-### 3️⃣ Ejecutar el Notebook
+### 3️ Ejecutar el Notebook
 ```bash
 Abre Jupyter Notebook y ejecuta accidents_analysis.ipynb
 jupyter notebook
@@ -69,11 +69,10 @@ jupyter notebook
 
 Si prefieres explorar el análisis sin necesidad de ejecutar código, puedes acceder aquí:  
 
-1️⃣
 📄 **Versión en HTML**  
 🔗 **[Accidents-Analysis-Madrid.html](https://carlosvegag1.github.io/accidents-analysis-madrid/accidents_analysis.html)**
 
-2️⃣
+
 📄 **Versión en PDF**  
 🔗 **[Accidents-Analysis-Madrid.pdf](https://github.com/carlosvegag1/accidents-analysis-madrid/blob/main/docs/accidents_analysis.pdf)**
 
@@ -92,7 +91,7 @@ Para más información sobre el portal y otros conjuntos de datos disponibles, v
 ### 🤝 Compalte
 Este proyecto es un análisis sobre los accidentes en Madrid que he desarrollado como parte de mi formación en ciencia de datos. Si tienes sugerencias o quieres contribuir, ¡serás bienvenido!
 
-**⭐ Si te resulta útil, no olvides darle una estrella al repositorio. 🚀**
+**⭐ Si te resulta útil, no olvides darle una estrella al repositorio.**
 
 
 ### 📬 Contacto
