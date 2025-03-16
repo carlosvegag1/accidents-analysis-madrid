@@ -1,7 +1,7 @@
 # 🚦 Análisis de Accidentes en Madrid
 
 <p align="center">
-<a href="https://github.com/carlosvegag1/Accidents-Analysis-Madrid"><img src="https://i.imgur.com/q5NMrcZ.png" width="80%"></a>
+<a href="https://github.com/carlosvegag1/Accidents-Analysis-Madrid"><img src="https://i.imgur.com/Ws1BKP0.png" width="80%"></a>
 </p>
 
 ## 🚗 Analizando la Seguridad Vial en Madrid
