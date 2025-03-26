@@ -32,7 +32,6 @@ Thumbs.db
 .venv
 
 # Archivos generados de gráficos y visualizaciones
-images/
 plots/
 figures/
 
